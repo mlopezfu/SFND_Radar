@@ -28,7 +28,7 @@ Is defined from line 63 to 84 of code.
 Implement the Range FFT on the Beat or Mixed Signal and plot the result.
 A correct implementation should generate a peak at the correct range, i.e the
 initial position of target assigned with an error margin of +/- 10 meters.
-![alt text](images/range.PNG)
+![alt text](images/range.png)
 
 ## 2D CFAR
 Implement the 2D CFAR process on the output of 2D FFT operation, i.e the Range Doppler Map.
@@ -37,7 +37,7 @@ the target signal. The output should match the image shared in walkthrough.
 
 Is defined in code from lines 118 to 145
 
-![alt text](images/doppler.PNG)
+![alt text](images/doppler.png)
 
 Write brief explanations for the following:
 
@@ -77,4 +77,4 @@ The same loop is run again to suppress the non thresholded cell at the edges.
     `end`
 `end`
 
-![alt text](images/2DCFAR.PNG)
+![alt text](images/2DCFAR.png)
