@@ -35,7 +35,7 @@ Implement the 2D CFAR process on the output of 2D FFT operation, i.e the Range D
 The 2D CFAR processing should be able to suppress the noise and separate
 the target signal. The output should match the image shared in walkthrough.
 
-Is defined in code from lines 118 to 145
+Is defined in code from lines 118 to 145.
 
 ![alt text](images/doppler.png)
 
